@@ -1,1 +1,2 @@
-# golang_const
+# Constant
+variable with fixed value
